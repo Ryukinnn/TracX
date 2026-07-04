@@ -15,7 +15,7 @@
 ## Instalasi di Kali Linux
 
 ```bash
-git clone https://github.com/yourusername/TracX.git
+git clone https://github.com/Ryukinnn/TracX.git
 cd TracX
 pip3 install -r requirements.txt
 chmod +x tracx.py
